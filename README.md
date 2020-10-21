@@ -8,7 +8,7 @@
 ## Index
 
 - [About](#-about)
-- [Technologies Used](#-tecnologies-used)
+- [Technologies Used](#-technologies-used)
 - [How to download the project](#-how-to-download-the-project)
 
 ---
